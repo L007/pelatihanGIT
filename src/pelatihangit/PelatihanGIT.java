@@ -25,6 +25,8 @@ public class PelatihanGIT {
         System.out.println("Hello World!!");
         System.out.println("hhhhhhhhhhaaaaaaaaaaaaaaaaaaa");
         System.out.println("testing");
+        System.out.println("");
     }
+    
     
 }
