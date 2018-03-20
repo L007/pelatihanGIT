@@ -26,6 +26,8 @@ public class PelatihanGIT {
         System.out.println("hhhhhhhhhhaaaaaaaaaaaaaaaaaaa");
         System.out.println("testing");
         System.out.println("git add commit push");
+        
+        System.out.println("");
     }
     
     
