@@ -23,6 +23,7 @@ public class PelatihanGIT {
     
     public static void buatMethod() {
         System.out.println("Hello World!!");
+        System.out.println("hhhhhhhhhhaaaaaaaaaaaaaaaaaaa");
     }
     
 }
