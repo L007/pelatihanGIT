@@ -17,6 +17,12 @@ public class PelatihanGIT {
     public static void main(String[] args) {
         // TODO code application logic here
         //berhasil clone dan push change
+        
+        buatMethod();
+    }
+    
+    public static void buatMethod() {
+        System.out.println("Hello World!!");
     }
     
 }
