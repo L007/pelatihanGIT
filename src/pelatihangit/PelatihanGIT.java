@@ -7,7 +7,7 @@ package pelatihangit;
 
 /**
  *
- * @author eldi
+ * @author eldi, aleq, abbi
  */
 public class PelatihanGIT {
 
